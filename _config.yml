@@ -22,7 +22,7 @@ description: Tips, tricks, and how-tos for the new tech writer
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+    - A Tech Writer's Toolbox: "writers-toolbox"
     - Learn markdown: "http://www.markdowntutorial.com/"
   Author's home: "http://deanattali.com"
 
