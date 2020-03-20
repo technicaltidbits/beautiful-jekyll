@@ -3,10 +3,9 @@ layout: page
 title: About me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+**Work**: Currently a [**technical writer**](https://www.techelevator.com/). Previously worked as an **adjunct English instructor** specializing in developmental writing.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Education**: Obtained my MA in **English Linguistics** from Eastern Michigan University and my BA in **Linguistics** from Miami University.  My comprehensive exams were in syntax and sociolinguistics.
 
 What else do you need?
 
