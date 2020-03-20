@@ -5,10 +5,8 @@ title: About me
 
 **Work**: Currently a [**technical writer**](https://www.techelevator.com/). Previously worked as an **adjunct English instructor** specializing in developmental writing.
 
-**Education**: Obtained my MA in **English Linguistics** from Eastern Michigan University and my BA in **Linguistics** from Miami University.  My comprehensive exams were in syntax and sociolinguistics.
+**Education**: Obtained my MA in **English Linguistics** from Eastern Michigan University and my BA in **Linguistics** from Miami University.  My areas of interest were sociolinguistics and syntax.
 
-What else do you need?
+**Technical writing interests**: DITA XML and topic-based authoring, [docs as code](https://www.writethedocs.org/guide/docs-as-code/), diagramming in documentation, inclusivity and diversity in tech comm, technical editing
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**What I'm learning right now**: Ruby and docs-as-code processes (_last updated March 20, 2020_)
