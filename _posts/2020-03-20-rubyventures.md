@@ -2,7 +2,7 @@
 layout: post
 title: Adventures in Ruby
 subtitle: Aren't loosely typed languages great?
-tags: [programming-languages], [ruby]
+tags: [programming-languages]
 comments: true
 ---
 If you're interested in becoming a technical writer and/or have any interest in working as a technical writer at a software development company, there's one thing that you should do:
