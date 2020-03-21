@@ -2,6 +2,7 @@
 layout: page
 title: About me
 ---
+Hello, I'm Deanna. 
 
 **Work**: Currently a [**technical writer**](https://www.techelevator.com/). Previously worked as an **adjunct English instructor** specializing in developmental writing.
 
