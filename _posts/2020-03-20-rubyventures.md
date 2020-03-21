@@ -2,7 +2,7 @@
 layout: post
 title: Adventures in Ruby
 subtitle: By the way, dynamically typed languages are great
-tags: [programming languages], [ruby]
+tags: [programming languages, ruby]
 comments: true
 ---
 Lately, I've become interested in learning more about [docs as code](https://www.writethedocs.org/guide/docs-as-code/). This philosophy refers to using the same tools to write documentation as you would with code. As an example, teams might write their documentation in a markup language like Markdown, store those files in a version control system like Git, and publish with a static site generator (SSG) like [Hugo](https://gohugo.io/).
