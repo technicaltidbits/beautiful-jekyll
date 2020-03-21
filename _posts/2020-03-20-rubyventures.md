@@ -1,24 +1,33 @@
 ---
 layout: post
 title: Adventures in Ruby
-subtitle: Dynamically typed languages are great
-tags: [programming languages]
+subtitle: By the way, dynamically typed languages are great
+tags: [programming languages], [ruby]
 comments: true
 ---
-If you're interested in becoming a technical writer and/or have any interest in working as a technical writer at a software development company, there's one thing that you should do:
+Lately, I've become interested in learning more about [docs as code](https://www.writethedocs.org/guide/docs-as-code/). This philosophy refers to using the same tools to write documentation as you would with code. As an example, teams might write their documentation in a markup language like Markdown, store those files in a version control system like Git, and publish with a static site generator (SSG) like [Hugo](https://gohugo.io/).
 
-**Learn how to code**. 
-
-Do you need to be an expert? I'd say it depends on your industry, the product you're working on, and your role. Knowing the subject matter is certainly helpful. Even though you'll often work with subject matter experts (SMEs) on the job, it'd be your advantage to have at least one programming language in your tech writer's toolbox, whether it's HTML or Java.
-
-Lately, I've become interested in learning more about [docs as code](https://www.writethedocs.org/guide/docs-as-code/). The philosophy refers to using the same tools to write documentation as you would with code. For example, teams might write their documentation in a markup language like Markdown, store those files in a version control system like Git, and publish with a static site generator (SSG) like [Hugo](https://gohugo.io/).
-
-I was reading Anne Gentle's [Docs Like Code](http://www.lulu.com/spotlight/justwriteclick), which has a nice, simple tutorial that walks you through the steps of using git and GitHub pages to create a website using [Jekyll](https://jekyllrb.com/), another SSG. I did some digging and discovered that Jekyll is written with [Ruby](https://www.ruby-lang.org/en/), a dynamic, open-source language. 
-
-I did some _more_ digging and discovered that Ruby is a dynamically typed language. 
+I was reading Anne Gentle's [Docs Like Code](http://www.lulu.com/spotlight/justwriteclick), which has a nice tutorial that walks you through the steps of using git and GitHub pages to create a website using [Jekyll](https://jekyllrb.com/), another SSG. I did some digging and discovered that Jekyll is written with [Ruby](https://www.ruby-lang.org/en/), a _dynamic_, open-source language. 
 
 {: .box-note}
-**Dynamically typed vs. Statically typed**: Dynamically typed languages check the types of your variables during runtime. Statically typed variables check the types of your variables during compile time (in other words, before the program runs). If you want to read more, see this helpful blog post from [Hexlet](https://en.hexlet.io/courses/intro_to_programming/lessons/types/theory_unit).
+**Dynamically typed languages**: Dynamically typed languages check the types of your variables during runtime. They differ from **statically typed languages**, which check the types of your variables during compile time (in other words, before the program runs). If you want to read more, see this helpful blog post from [Hexlet](https://en.hexlet.io/courses/intro_to_programming/lessons/types/theory_unit).
 
+I'm interested in learning dynamically typed languages after spending a few months wrangling with C#, which is a statically typed language. Here's an example of the difference between the two:
 
+### Ruby
+```ruby
+my_name = "Deanna"
+puts my_name #prints 'Deanna' to the screen
+```
 
+### C#
+```csharp
+string my_name = "Deanna";
+Console.WriteLine(my_name); //prints 'Deanna' to the screen
+```
+
+The difference here is that C# requires that you declare the data type of `my_name` before it's used.  In contrast, Ruby does not. This makes Ruby much more flexible than C#. However, it can cause issues at runtime, which is an entirely different discussion.
+
+If you're interested in learning how to code, or want to learn a new language, I think that Ruby is a good place to start. It seems like a readable language and after a quick Google search, is very forgiving. You can view the documentation using the link I included in this post. I plan to use Codecademy to get started before I start building programs in VS Code.
+
+Happy coding, friends.
