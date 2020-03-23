@@ -4,7 +4,7 @@ title: About me
 ---
 Hello, I'm Deanna. 
 
-**Work**: Currently a [**technical writer**](https://www.techelevator.com/). Previously worked as an **adjunct English instructor** specializing in developmental writing.
+**Work**: Currently a [**technical writer**](https://www.techelevator.com/) at Tech Elevator. Previously worked as an **adjunct English instructor** specializing in developmental writing.
 
 **Education**: Obtained my MA in **English Linguistics** from Eastern Michigan University and my BA in **Linguistics** from Miami University.  My areas of interest were sociolinguistics and syntax.
 
