@@ -10,4 +10,4 @@ Hello, I'm Deanna.
 
 **Technical writing interests**: DITA XML and topic-based authoring, [docs as code](https://www.writethedocs.org/guide/docs-as-code/), diagramming in documentation, inclusivity and diversity in tech comm, technical editing
 
-**What I'm learning right now**: Ruby and docs-as-code processes (_last updated March 20, 2020_)
+**What I'm learning right now**: Docs-as-code processes, testing documentation (_last updated April 7, 2020_)
